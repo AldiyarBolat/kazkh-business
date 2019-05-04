@@ -1,0 +1,24 @@
+Ô#Wed Apr 24 18:32:26 ALMT 2019
+doubleIndentClassDeclaration=true
+alignSingleLineCaseStatements=false
+compactControlReadability=false
+compactStringConcatenation=false
+spaceInsideBrackets=false
+indentSpaces=2
+indentPackageBlocks=true
+spaceInsideParentheses=false
+rewriteArrowSymbols=false
+preserveSpaceBeforeArguments=false
+indentWithTabs=false
+spacesAroundMultiImports=true
+alignArguments=false
+preserveDanglingCloseParenthesis=false
+spaceBeforeColon=false
+placeScaladocAsterisksBeneathSecondAsterisk=false
+alignSingleLineCaseStatements.maxArrowIndent=40
+alignParameters=false
+multilineScaladocCommentsStartOnFirstLine=false
+spacesWithinPatternBinders=true
+formatXml=true
+indentLocalDefs=false
+danglingCloseParenthesis=Force

@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/aldiyarbolat/IdeaProjects/kazakh-business/target/scala-2.12/kazakh-business_2.12-1.0.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/resources/logback.xml[0m
+[0m[[0mdebug[0m] [0m	domain/JsonSupport.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/scala/domain/JsonSupport.scala[0m
+[0m[[0mdebug[0m] [0m	repo/MovieDAO.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/scala/repo/MovieDAO.scala[0m
+[0m[[0mdebug[0m] [0m	local.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/resources/local.conf[0m
+[0m[[0mdebug[0m] [0m	repo/MovieRepoImpl.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/scala/repo/MovieRepoImpl.scala[0m
+[0m[[0mdebug[0m] [0m	services/Core.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/scala/services/Core.scala[0m
+[0m[[0mdebug[0m] [0m	Boot.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/scala/Boot.scala[0m
+[0m[[0mdebug[0m] [0m	domain/DTO.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/aldiyarbolat/IdeaProjects/kazakh-business/src/main/scala/domain/DTO.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
